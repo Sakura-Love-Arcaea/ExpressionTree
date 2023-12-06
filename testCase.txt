@@ -1,0 +1,9 @@
+-x
+x^y
+x^yvz
+-x^y
+-x^-y
+-(x^y)
+(x^y)v(x^z)
+-(x^y)v(x^z)
+0
